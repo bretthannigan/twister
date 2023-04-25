@@ -21,7 +21,9 @@ The geometry generator has the following assumptions:
 
 The script generates 3D renderings of the fibre geometries, an animation of extension from 0% strain to the requested final strain, and cross-sectional bitmap images that can be used to estimate electrical properties.
 
-Please cite if this work is useful to you. This script was used in the following publication:
+## More Information
+
+Please see the included [presentation](pres/HAY_Modelling.pdf) and paper below (with associated SI) for further details. Please cite if this work is useful to you. This script was used in the following publication:
 > Cuthbert, T. J., Hannigan, B. C., Shokurov, A., & Menon, C. (2023). HACS: Helical Auxetic Yarn Capacitive Sensors that Go Beyond the Theoretical Sensitivity Limit. _Advanced Materials_, 35(10). https://doi.org/10.1002/adma.202209321
 
 ## Example Animation
